@@ -1,7 +1,8 @@
 # spin-the-wheel
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210331225350388.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0MjczNDI5,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210401003450801.png)
 
+# 基于HTML的旋转转盘—小于30kb的可定制轮盘🎡
 
 演示链接：[http://haiyongcsdn.gitee.io/spin-the-wheel/](http://haiyongcsdn.gitee.io/spin-the-wheel/)
 
@@ -103,7 +104,7 @@
 找到一种精确的高级测量点击动画的方法将是惊人的。
 使自定义车轮可嵌入`<iframe>`是很酷的。
 
-欢迎关注作者微信公众号`啦啦啦好想biu点什么` 保存识别，也可在公众号上向我反馈遇到的问题，看到我会第一时间回复😁
+欢迎关注作者微信公众号`啦啦啦好想biu点什么` 保存识别，也可在公众号上向我反馈遇到的问题，看到我会第一时间回复😀
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210123111950829.jpg#pic_center)
 
 
@@ -122,7 +123,7 @@
  - [一个炫光效果的酷炫登录表单](https://blog.csdn.net/qq_44273429/article/details/113797520)
 
 感谢您阅读至最后❤️这是您的勋章
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210309222038491.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0MjczNDI5,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210309222038491.png)
 
 
 最后，不要忘了❤️或📑支持一下哦
