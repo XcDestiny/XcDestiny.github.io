@@ -29,16 +29,30 @@
 				<h1><span class="header-box bg-shade">转盘</span></h1>
 				<p><span class="header-box bg-shade">有选择困难症吗？ <strong>创建名称，决策或任务的转盘，让它随机发生</strong> 让转盘来决定</span>
 			</header>
-			<form id=form class=tool action=/.netlify/functions/spin-the-wheel> <div class="wrapper control-box bg-base pattern pin-stripes set-shade h-borders">
-				<div class=dropdown><input id=show-more type=checkbox checked> <label for=show-more><strong class=closed-label>显示选项
-						</strong> <strong class=open-label>隐藏选项</strong> <span class=icon aria-hidden=true></span></label>
-					<div class=hidden-items><label class=label-input>可以新加一行也可删减一行<span class=hint>转盘的块数随着你的行数变化而变化</span>
+			<form id=form class=tool action=/.netlify/functions/spin-the-wheel> 
+			<div class="wrapper control-box bg-base pattern pin-stripes set-shade h-borders">
+				<div class=dropdown><input id=show-more type=checkbox checked> 
+				<label for=show-more>
+					<strong class=closed-label>显示选项</strong> 
+					<strong class=open-label>隐藏选项</strong> 
+					<span class=icon aria-hidden=true></span>
+				</label>
+					<div class=hidden-items>
+						<label class=label-input>可以新加一行也可删减一行
+						<span class=hint>转盘的块数随着你的行数变化而变化</span>
 							<textarea id=list name=list placeholder="">出去走走
 看一场电影
 烤一块蛋糕
 写一首诗
-做一次love</textarea></label> <label class="checkbox noscript-hide"><span>播放声音</span><input id=sound type=checkbox value=sound
-							 name=sound><b class=check aria-hidden=true>✔</b></label></div>
+做一次love
+							</textarea>
+						</label> 
+						<label class="checkbox noscript-hide">
+							<span>播放声音</span>
+							<input id=sound type=checkbox value=sound
+							 name=sound><b class=check aria-hidden=true>✔</b>
+						</label>
+					</div>
 				</div>
 	</div><noscript>
 		<p><strong>Javascript disabled?</strong> You can still use this tool. Write a list and click "spin the wheel".</p><br>
@@ -58,5 +72,9 @@
 			<script src="js/script.js"></script>
 			<footer class=bg-glare>
 				<ul class=flow>
-					<li><a href="https://blog.csdn.net/qq_44273429/article/details/115362643">学习如何制作 </a> <li><a href="https://gitee.com/haiyongcsdn/spin-the-wheel/">源码展示 </a> <li><a href="https://blog.csdn.net/qq_44273429">技术支持 </a> </ul>
-								 </footer> </div>
+					<li><a href="https://blog.csdn.net/qq_44273429/article/details/115362643">学习如何制作 </a> 
+					<li><a href="https://gitee.com/haiyongcsdn/spin-the-wheel/">源码展示 </a> 
+					<li><a href="https://blog.csdn.net/qq_44273429">技术支持 </a> 
+				</ul>
+			</footer> 
+		</div>
